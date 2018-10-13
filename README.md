@@ -5,5 +5,5 @@ with GITHUB
 !
 !
 !
-Vot ea tut podumal
-nado ctoto sdesi dobaviti
+dobavil
+Vtoraia ne vajnaia vetca
